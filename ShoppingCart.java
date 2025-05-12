@@ -6,7 +6,7 @@ private List<Product> items;
  public ShoppingCart() {
 this.items = new ArrayList<>();
  }
-14
+
  public void addItem(Product product) {
 items.add(product);
  }
